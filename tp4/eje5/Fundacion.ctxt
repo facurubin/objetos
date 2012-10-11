@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=p_nombre
+comment0.target=Fundacion(java.lang.String)
+comment0.text=\ Constructor\ de\ objetos\ de\ la\ clase\ Fundacion\n@param\ String\ p_nombre\n
+comment1.params=p_nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=metodo\ que\ devuelve\ el\ el\ valor\ de\ la\ V.I.\ nombre\n\ @return\ String\ nombre\n
+comment3.params=p_evento\ p_persona
+comment3.target=void\ imprimirInvitacion(Evento,\ Persona)
+comment3.text=metodo\ que\ recibe\ objetos\ como\ parametro\ (Evento\ y\ Persona)\ e\ imprime\ Invitaciones\n\ @param\ Evento\ p_evento\n\ @param\ Persona\ p_persona\n
+comment4.params=p_evento\ p_persona
+comment4.target=void\ grabarInvitacion(Evento,\ Persona)
+comment4.text=metodo\ que\ graba\ en\ un\ archivo\ los\ datos\ del\ evento\ y\ la\ persona\n\ @param\ Evento\ p_evento\n\ @param\ Persona\ p_persona\n
+numComments=5

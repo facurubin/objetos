@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=p_nombre\ p_compraMinima\ p_diaEntrega
+comment0.target=Proveedor(java.lang.String,\ int,\ int)
+comment0.text=\n\ Constructor\ unico\ para\ objetos\ de\ la\ clase\ Proveedor\n\ @param\ String\ p_nombre\n\ @param\ int\ p_compraMinima\n\ @param\ int\ p_diaEntrega\n
+comment1.params=p_nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=p_compraMinima
+comment2.target=void\ setCompraMinima(int)
+comment3.params=p_diaEntrega
+comment3.target=void\ setDiaEntrega(int)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=metodo\ que\ devuelve\ el\ valor\ de\ la\ V.I.\ nombre\n\ @return\ String\ nombre\n
+comment5.params=
+comment5.target=int\ getCompraMinima()
+comment5.text=metodo\ que\ devuelve\ el\ valor\ de\ la\ V.I.\ compraMinima\n\ @return\ int\ compraMinima\n
+comment6.params=
+comment6.target=int\ getDiaEntrega()
+comment6.text=metodo\ que\ devuelve\ el\ valor\ de\ la\ V.I.\ diaEntrega\n\ @return\ int\ diaEntrega\n
+comment7.params=
+comment7.target=int\ diasParaEntrega()
+comment7.text=\ metodo\ que\ devuelve\ la\ cantidad\ de\ dias\ faltantes\ para\ la\ proxima\ entrega\ de\ productos\ por\ parte\ del\ proveedor\n\ \ @return\ int\ diasParaEntrega\n
+comment8.params=
+comment8.target=java.lang.String\ mostrar()
+comment8.text=metodo\ que\ rotorna\ un\ String\ con\ el\ nombre\ del\ proveedor\n\ @return\ String\ Proveedor\n
+numComments=9

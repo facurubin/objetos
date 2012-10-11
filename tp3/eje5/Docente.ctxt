@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=p_nombre\ p_grado\ p_sueldoBasico\ p_asignacionFamiliar
+comment0.target=Docente(java.lang.String,\ java.lang.String,\ double,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment2.params=
+comment2.target=java.lang.String\ getGrado()
+comment3.params=
+comment3.target=double\ getSueldoBasico()
+comment4.params=
+comment4.target=double\ getAsignacionFamiliar()
+comment5.params=p_nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=p_grado
+comment6.target=void\ setGrado(java.lang.String)
+comment7.params=p_asignacionFamiliar
+comment7.target=void\ setAsignacionFamiliar(double)
+comment8.params=p_sueldoBasico
+comment8.target=void\ setSueldoBasico(double)
+comment9.params=
+comment9.target=double\ calcularSueldo()
+numComments=10
