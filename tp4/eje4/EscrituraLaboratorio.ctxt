@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.params=dato\ num
-comment0.target=java.lang.String\ validar(java.lang.String,\ int)
-comment0.text=\nMetodo\ statico\ que\ completa\ o\ trunca\ a\ una\ tama\u00F1o\ determinado.\n@param\ cadena\n@param\ cantidad\n@return\ cadena\ con\ el\ tama\u00F1o\ correcto\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
